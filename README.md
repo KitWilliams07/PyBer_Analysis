@@ -23,12 +23,17 @@ Below is an image of the multi-line plot that shows the trend of total fares per
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/PyBer_Analysis/main/Resources/multi_line_plot.png)
 
+From this plot it is easy to see that Urban cities have the highest amount of fares. This makes sense because Urban cities see the highest volume of riding-sharing usage. Suburban cities have the next highest fare by week, followed by Rural cities. 
+
 
 
 ## Summary
- create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
-Deliverable 1: A ride-sharing summary DataFrame by city type
-Deliverable 2: A multiple-line chart of total fares for each city type
-Deliverable 3: A written report for the PyBer analysis (README.md)
+Based on these two forms of data visulization, a few conclusions can be drawn from the data. 
+
+First, starting in mid-February all the way through April, the weekly ride sharing fares in an Urban cities fluctuates greatly. There is a peak in business followed by an immediate drop, that alternates weekly for 2 months. Assuming this trend is consistent every year, a CEO of a business should consider alternating the amount of driver they send out based on the week. For example if the previous week was slow, then more drivers should be deployed for the next week to help with the inevitable rise in rides needed. 
+
+Another conclusion that can be drawn also deals with the Urban cities. The plot shows that from the beginning of the year to this middle of February mark, there is a steady increase in rides. That means that a CEO should consider adding more drivers every week at the start of the new year in order to keep up with ride demand. At the middle of the February point they should consider following the previously mentioned advise. 
+
+The final conclusion that can be drawn is that there seems to be a massive spike in ride fare across all 3 city types that starts at the middle of February. The middle of February could represent Valentine's Day. The trend in the data most likely reflects couples going out to dinner to celebrate and will most likely consume some form of alcohol. This requires a ride both to and from the restaraunt which could explain why there were so many rides at this point. 
 
