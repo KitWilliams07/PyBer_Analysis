@@ -5,7 +5,7 @@
 
 The purpose of this analysis was to first create a summary DataFrame of the ride-sharing data by city type. This determined metrics like: Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver. 
 
-The next part of the analysis was to create a multi-line graph to display the trends of total weekly fares by city type. 
+The next part of the analysis was to create a multi-line plot to display the trends of total weekly fares by city type. 
 
 These visulizations could then be used in conjuction with eachother to make informed decisions on companies ride-sharing business decisions.
 
@@ -19,7 +19,11 @@ This Data Frame makes it clear the distinctions between each city type. Rural Ci
 
 Suburban and Urban cities have increased rides and total fares. However since there are more drivers the average fare per driver is less than that or Rural cities. 
 
-Below
+Below is an image of the multi-line plot that shows the trend of total fares per week, filtered by city type.
+
+![alt text](https://raw.githubusercontent.com/KitWilliams07/PyBer_Analysis/main/Resources/multi_line_plot.png)
+
+
 
 ## Summary
  create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
