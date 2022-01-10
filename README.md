@@ -15,6 +15,12 @@ Below is the Summary Data Frame.
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/PyBer_Analysis/main/Resources/summary_data.png)
 
+This Data Frame makes it clear the distinctions between each city type. Rural City types have less rides, lower total fares, however due to the decreased number of drivers the Average Fare per Driver is very high. Additionally, the average fare per ride is the highest for Rural cities. 
+
+Suburban and Urban cities have increased rides and total fares. However since there are more drivers the average fare per driver is less than that or Rural cities. 
+
+Below
+
 ## Summary
  create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
